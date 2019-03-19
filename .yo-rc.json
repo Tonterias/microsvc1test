@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.microsvc1test.web",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "gateway",
+    "baseName": "microsvc1test",
+    "packageName": "com.microsvc1test.web",
+    "packageFolder": "com/microsvc1test/web",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmQ2OGM5MzlkMWQyZWQwYmE0YjNiYzBhMmFiM2FjZTE0NTU1N2I4NDk4ZmY4ZGIxN2NiZTFkZTc2NGE5NzM3YmY4ZGNmOTNkNzIzZGE2Y2QxMWJmMTQ2OTA0Njc1ODUzY2Q0MmFlYzFhMjg2NGQ3MTFiY2NlMGVkNzM3OGJhMGU=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "hi",
+      "es"
+    ]
+  }
+}
